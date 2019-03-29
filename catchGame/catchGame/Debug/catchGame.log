@@ -1,0 +1,9 @@
+﻿  catchGame.cpp
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(241): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\catchgame.cpp(246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  catchGame.vcxproj -> C:\Users\c00240102\Desktop\catchGame\Debug\catchGame.exe
